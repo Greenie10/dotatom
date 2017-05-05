@@ -3,7 +3,7 @@
 ## Prerequisites
 
 - You have [Atom](https://atom.io/) installed :rocket:
-- You have [apm](https://github.com/atom/apm) installed  
+- You have [apm](https://github.com/atom/apm) installed
   Run *Atom > Install Shell Commands* from the menu option (macOS only)
 
 ## Instructions
@@ -12,7 +12,7 @@ Note: This will wipe out any existing Atom configurations that you have.
 
 ```bash
 mv ~/.atom ~/.atom_bak
-git clone git@github.com:dideler/dotatom.git ~/.atom
+git clone git@github.com:Greenie10/dotatom.git ~/.atom
 ```
 
 Install the Atom packages by running:
