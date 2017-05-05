@@ -1,6 +1,5 @@
 Sublime-Style-Column-Selection@1.7.4
 atom-beautify@0.29.23
-atom-htmltidy@5.1.0
 atom-pair@2.0.10
 atom-runner@2.7.1
 autoclose-html@0.23.0
